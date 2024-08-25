@@ -13,7 +13,7 @@ The goal was to analyze Foodie-Fi's subscription data and provide actionable ins
 - Downgrade: When a customer moves from a higher-tier plan (Pro) to a lower-tier plan (Basic).
 
 # 📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
-- Total Customers: Identified a total of 5,000 unique customers subscribed to Foodie-Fi.
+- Total Customers: Identified a total of 1000 unique customers subscribed to Foodie-Fi.
   
 - Monthly Distribution of Trial Plans: The majority of customers started their trial plan in the months of January and February, indicating higher interest during the start of the year.
   
