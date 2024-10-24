@@ -1,18 +1,18 @@
 # Foodie-Fi Subscription Data Analysis
 #
 
-# 🔍 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
+## 🔍 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
 Foodie-Fi, a subscription-based streaming service, aims to better understand its customer base to enhance retention, optimize plan offerings, and identify upgrade/downgrade trends. The analysis focuses on evaluating customer subscription patterns, plan preferences, and behavior over time.
 
-# 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
+## 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
 The goal was to analyze Foodie-Fi's subscription data and provide actionable insights into customer behavior, including retention rates, plan preferences, and upgrade/downgrade trends, to support strategic decision-making.
 
-# 📌 𝐊𝐞𝐲 𝐓𝐞𝐫𝐦𝐬 𝐔𝐬𝐞𝐝:
+## 📌 𝐊𝐞𝐲 𝐓𝐞𝐫𝐦𝐬 𝐔𝐬𝐞𝐝:
 - Churn: The process when a customer cancels their subscription, indicated by a null price for the churn plan.
 - Upgrade: When a customer moves from a lower-tier plan (Basic) to a higher-tier plan (Pro or Annual Pro).
 - Downgrade: When a customer moves from a higher-tier plan (Pro) to a lower-tier plan (Basic).
 
-# 📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+## 📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 - Total Customers: Identified a total of 1000 unique customers subscribed to Foodie-Fi.
   
 - Monthly Distribution of Trial Plans: The majority of customers started their trial plan in the months of January and February, indicating higher interest during the start of the year.
