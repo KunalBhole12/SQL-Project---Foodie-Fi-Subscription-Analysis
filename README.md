@@ -33,7 +33,7 @@ The goal was to analyze Foodie-Fi's subscription data and provide actionable ins
   
 - Downgrade Analysis: In 2020, 0 customers downgraded from the Pro Monthly Plan to the Basic Plan.
   
-# 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
+## 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
 - Incentivize Annual Plans: Offer promotions and discounts to encourage customers to switch to annual plans.
 - Monitor Churn Patterns: Implement strategies to reduce churn, especially post-trial.
 - Optimize Plan Offerings: Adjust plan features and pricing based on customer preferences and behaviors.
