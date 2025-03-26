@@ -2,7 +2,7 @@
 #
 
 ## 🔍 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
-Foodie-Fi, a subscription-based streaming service, aims to better understand its customer base to enhance retention, optimize plan offerings, and identify upgrade/downgrade trends. The analysis focuses on evaluating customer subscription patterns, plan preferences, and behavior over time.
+Foodie-Fi, a subscription-based food service company, aims to better understand its customer base to enhance retention, optimize plan offerings, and identify upgrade/downgrade trends. The analysis focuses on evaluating customer subscription patterns, plan preferences, and behavior over time.
 
 ## 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
 The goal was to analyze Foodie-Fi's subscription data and provide actionable insights into customer behavior, including retention rates, plan preferences, and upgrade/downgrade trends, to support strategic decision-making.
